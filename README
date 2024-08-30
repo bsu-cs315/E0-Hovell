@@ -1,4 +1,9 @@
-Camden Hovell
-Exercise 0: Godot Practice Project
-
-Used Godot free tutorial license
+Author: Camden Hovell
+Assignment: Exercise 0 - Godot Practice Project
+Licenses: 
+  Graphics and Sound assets downloaded from https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html 
+  Credit to ©Copyright 2014-present Juan Linietsky, Ariel Manzur and the Godot community (CC BY 3.0). Revision d324d78c.
+Report:
+  I followed the step-by-step tutorial instructions written on the Godotengine.org website titled "Your first 2D game".
+  From this process, I learned how to import asset files, create basic nodes, write scripts that include player input and movement,
+  spawn entities that have randomized movement, add changing GUI, and control basic music and sound effects through Godot.
